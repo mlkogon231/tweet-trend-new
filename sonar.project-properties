@@ -1,0 +1,9 @@
+sonar.verbose=true
+sonar.organization=Udemy devops project 2
+sonar.projectkey=udemy-devops-project-2_xtrend-key
+sonar.projectname=xtrend
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.java.binaries=target/classes
+sonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml
